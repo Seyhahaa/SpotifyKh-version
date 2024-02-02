@@ -16,7 +16,7 @@ function Navbar({setOpenSidebar,openSidebar}) {
       </div>
       <div className='flex items-center bg-black p-1 rounded-full'>
         <FaCircleUser className='bg-gray-400 p-1 rounded-full h-7 w-7'/>
-        <h2 className='ml-4 font-bold'>RBD SOUND</h2>
+        <h2 className='ml-4 font-bold'>DOMM</h2>
         <MdArrowDropDownCircle className='ml-2'/>
       </div>
     </div>
